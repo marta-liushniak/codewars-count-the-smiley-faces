@@ -1,4 +1,4 @@
-Complete the countSmileys() method that should return the total number of smiling faces.
+Complete the *countSmileys()* method that should return the total number of smiling faces.
 
 Rules for a smiling face:
 
@@ -16,4 +16,4 @@ Example:
 `countSmileys([';]', ':[', ';*', ':$', ';-D']);` // should return *1*;  
 
 Note:
-In case of an empty array return 0. Order of the face (eyes, nose, mouth) elements will always be the same.
+In case of an empty array return *0*. Order of the face (eyes, nose, mouth) elements will always be the same.
